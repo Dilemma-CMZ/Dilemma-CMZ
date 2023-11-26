@@ -2,29 +2,15 @@
 <h1 align="center">Hi 👋, I'm Chen MingZhi</h1>
 <h3 align="center">A passionate CS major sophomore from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilemma-cmz&label=Profile%20views&color=0e75b6&style=flat" alt="dilemma-cmz" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilemma-cmz" alt="dilemma-cmz" /></a> </p>
 
 - 🔭 I’m currently working on [HTTP File Manager](https://github.com/chanbengz/CS305_Project_2023F)
 
 - 🌱 I’m currently learning **Computer NetWork，Discrete Mathematics，Data Structure and Algorithm Analysis and etc**
 
-- 👯 I’m looking to collaborate on [None](None)
-
-- 🤝 I’m looking for help with [None](None)
-
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 📝 I regularly write articles on [...](...)
-
-- 💬 Ask me about **...**
-
-- 📫 How to reach me **2320993191@qq.com or 12211414@mail.sustech.edu.cn**
-
-- 📄 Know about my experiences [...](...)
-
-- ⚡ Fun fact **...**
+- 📫 How to reach me:
+- My personal Email**2320993191@qq.com**
+- University Email **12211414@mail.sustech.edu.cn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
