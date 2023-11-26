@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Computer NetWork，Discrete Mathematics，Data Structure and Algorithm Analysis and etc**
 
 - 📫 How to reach me:
-- My personal Email**2320993191@qq.com**
+- My personal Email **2320993191@qq.com**
 - University Email **12211414@mail.sustech.edu.cn**
 
 <h3 align="left">Connect with me:</h3>
