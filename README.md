@@ -1,4 +1,3 @@
-# Chen-MingZhi
 <h1 align="center">Hi 👋, I'm MingZhi Chen</h1>
 <h3 align="center">A passionate CS major undergraduate from China</h3>
 
